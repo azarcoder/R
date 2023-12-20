@@ -1,0 +1,7 @@
+name <- readline(prompt="Enter your name:")
+city <- readline(prompt="Enter your city:")
+dob <- readline(prompt="Enter your DOB:")
+age  <- as.integer(dob)
+cat("Your Name:",name,"\n")
+cat("Your City:",city,"\n")
+cat("Your Age:",2023-age,"\n")
